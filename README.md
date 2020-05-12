@@ -4,15 +4,20 @@
 ###### for Running application clone and run command from root of repo
 
 For FE test: 
+
 Question: Write a Javascript function to print Sieve of Eratosthenes
+
 to run application `node trademoFE.js`
 
 
 for BE:
+
 Question: Write class/classes for a vehicle parking system. The vehicle parking system has one entry gate and finite space for parking all kinds of vehicles, like cars, bikes and trucks. Please send your code attached in reply. Also, please state assumptions and any constraints of your system.
 
 it has 2 version: 
+
 -- 1st is simple version with a single class 'node vehicleParkingSystem.js'
+
 -- Created a secand version which is little bit more extensive with few other functinality built in
       `cat file_input.txt | node main.js`
 
