@@ -1,16 +1,17 @@
 # trademo question
-### Built this application for the trademo app
+
+#### Built this application for the trademo
 
 ###### for Running application clone and run command from root of repo
 
-For FE test: 
+## For FE: 
 
 Question: Write a Javascript function to print Sieve of Eratosthenes
 
 to run application `node trademoFE.js`
 
 
-for BE:
+## For BE:
 
 Question: Write class/classes for a vehicle parking system. The vehicle parking system has one entry gate and finite space for parking all kinds of vehicles, like cars, bikes and trucks. Please send your code attached in reply. Also, please state assumptions and any constraints of your system.
 
