@@ -22,3 +22,6 @@ it has 2 version:
 -- Created a secand version which is little bit more extensive with few other functinality built in
       `cat file_input.txt | node main.js`
 
+For running test on the same run command `npm install -g mocha chai; npm test`
+
+if you want to see the full application with working functional ruby test cases, with setup and unit integration checkout the zip file.
